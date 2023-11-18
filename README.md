@@ -11,19 +11,19 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>College</th>
+    <th>Course</th>
+    <th>place</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>kg colllege </td>
+    <td>msc.cs</td>
+    <td>saravanampatti</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>sns college</td>
+    <td>msc.ss</td>
+    <td>saravanampatti</td>
   </tr>
 </table>
 
